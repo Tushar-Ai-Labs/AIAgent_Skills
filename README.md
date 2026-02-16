@@ -52,3 +52,4 @@ This project is open-source and available under the MIT License.
 This repository is maintained by **[Tushar-Ai-Labs](https://github.com/Tushar-Ai-Labs)**. We are dedicated to building advanced AI agents and automation tools.
 
 Check out our other projects and contributions on GitHub!
+Connect us at @ https://www.linkedin.com/in/tushar-gupta-56895959/
